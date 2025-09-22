@@ -1,0 +1,26 @@
+D:\UTM\Budeanu_Anul_IV\IV\IV\PAD\BrokerTcp\Common\bin\Debug\net8.0\Common.deps.json
+D:\UTM\Budeanu_Anul_IV\IV\IV\PAD\BrokerTcp\Common\bin\Debug\net8.0\Common.dll
+D:\UTM\Budeanu_Anul_IV\IV\IV\PAD\BrokerTcp\Common\bin\Debug\net8.0\Common.pdb
+D:\UTM\Budeanu_Anul_IV\IV\IV\PAD\BrokerTcp\Common\obj\Debug\net8.0\Common.csproj.AssemblyReference.cache
+D:\UTM\Budeanu_Anul_IV\IV\IV\PAD\BrokerTcp\Common\obj\Debug\net8.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\UTM\Budeanu_Anul_IV\IV\IV\PAD\BrokerTcp\Common\obj\Debug\net8.0\Common.AssemblyInfoInputs.cache
+D:\UTM\Budeanu_Anul_IV\IV\IV\PAD\BrokerTcp\Common\obj\Debug\net8.0\Common.AssemblyInfo.cs
+D:\UTM\Budeanu_Anul_IV\IV\IV\PAD\BrokerTcp\Common\obj\Debug\net8.0\Common.csproj.CoreCompileInputs.cache
+D:\UTM\Budeanu_Anul_IV\IV\IV\PAD\BrokerTcp\Common\obj\Debug\net8.0\Common.sourcelink.json
+D:\UTM\Budeanu_Anul_IV\IV\IV\PAD\BrokerTcp\Common\obj\Debug\net8.0\Common.dll
+D:\UTM\Budeanu_Anul_IV\IV\IV\PAD\BrokerTcp\Common\obj\Debug\net8.0\refint\Common.dll
+D:\UTM\Budeanu_Anul_IV\IV\IV\PAD\BrokerTcp\Common\obj\Debug\net8.0\Common.pdb
+D:\UTM\Budeanu_Anul_IV\IV\IV\PAD\BrokerTcp\Common\obj\Debug\net8.0\ref\Common.dll
+D:\UTM\Anul IV\PAD\Lab_1\BrokerTcp\Common\bin\Debug\net8.0\Common.deps.json
+D:\UTM\Anul IV\PAD\Lab_1\BrokerTcp\Common\bin\Debug\net8.0\Common.dll
+D:\UTM\Anul IV\PAD\Lab_1\BrokerTcp\Common\bin\Debug\net8.0\Common.pdb
+D:\UTM\Anul IV\PAD\Lab_1\BrokerTcp\Common\obj\Debug\net8.0\Common.csproj.AssemblyReference.cache
+D:\UTM\Anul IV\PAD\Lab_1\BrokerTcp\Common\obj\Debug\net8.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\UTM\Anul IV\PAD\Lab_1\BrokerTcp\Common\obj\Debug\net8.0\Common.AssemblyInfoInputs.cache
+D:\UTM\Anul IV\PAD\Lab_1\BrokerTcp\Common\obj\Debug\net8.0\Common.AssemblyInfo.cs
+D:\UTM\Anul IV\PAD\Lab_1\BrokerTcp\Common\obj\Debug\net8.0\Common.csproj.CoreCompileInputs.cache
+D:\UTM\Anul IV\PAD\Lab_1\BrokerTcp\Common\obj\Debug\net8.0\Common.sourcelink.json
+D:\UTM\Anul IV\PAD\Lab_1\BrokerTcp\Common\obj\Debug\net8.0\Common.dll
+D:\UTM\Anul IV\PAD\Lab_1\BrokerTcp\Common\obj\Debug\net8.0\refint\Common.dll
+D:\UTM\Anul IV\PAD\Lab_1\BrokerTcp\Common\obj\Debug\net8.0\Common.pdb
+D:\UTM\Anul IV\PAD\Lab_1\BrokerTcp\Common\obj\Debug\net8.0\ref\Common.dll

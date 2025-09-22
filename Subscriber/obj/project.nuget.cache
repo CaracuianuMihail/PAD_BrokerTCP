@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2XIf9CohzO0=",
+  "success": true,
+  "projectFilePath": "D:\\UTM\\Anul IV\\PAD\\Lab_1\\BrokerTcp\\Subscriber\\Subscriber.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mihai\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

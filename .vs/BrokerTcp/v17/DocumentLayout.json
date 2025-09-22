@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UTM\\Anul IV\\PAD\\Lab_1\\BrokerTcp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DAC6AD29-52D7-4E0C-AE38-1151CD8F8A40}|Broker\\Broker.csproj|d:\\utm\\anul iv\\pad\\lab_1\\brokertcp\\broker\\brokersocket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAC6AD29-52D7-4E0C-AE38-1151CD8F8A40}|Broker\\Broker.csproj|solutionrelative:broker\\brokersocket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFCA7ECD-4956-4EE7-AF44-60183C8BD39B}|Subscriber\\Subscriber.csproj|d:\\utm\\anul iv\\pad\\lab_1\\brokertcp\\subscriber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFCA7ECD-4956-4EE7-AF44-60183C8BD39B}|Subscriber\\Subscriber.csproj|solutionrelative:subscriber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BrokerSocket.cs",
+              "DocumentMoniker": "D:\\UTM\\Anul IV\\PAD\\Lab_1\\BrokerTcp\\Broker\\BrokerSocket.cs",
+              "RelativeDocumentMoniker": "Broker\\BrokerSocket.cs",
+              "ToolTip": "D:\\UTM\\Anul IV\\PAD\\Lab_1\\BrokerTcp\\Broker\\BrokerSocket.cs",
+              "RelativeToolTip": "Broker\\BrokerSocket.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T16:58:33.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\UTM\\Anul IV\\PAD\\Lab_1\\BrokerTcp\\Subscriber\\Program.cs",
+              "RelativeDocumentMoniker": "Subscriber\\Program.cs",
+              "ToolTip": "D:\\UTM\\Anul IV\\PAD\\Lab_1\\BrokerTcp\\Subscriber\\Program.cs",
+              "RelativeToolTip": "Subscriber\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T07:59:54.004Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 175,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
